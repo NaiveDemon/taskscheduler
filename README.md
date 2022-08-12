@@ -1,0 +1,2 @@
+# taskscheduler
+ This project intended to trigger tasks automatically at a given interval of time. • The tasks to be scheduled are present in the database and there functionality is well defined. • The list of already present tasks is shown on the home page and the user is free to choose one or many tasks to be scheduled. • The user is free to provide time interval. • The task would be performed at the given interval periodically.
