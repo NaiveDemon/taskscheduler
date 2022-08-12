@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    row-gap: 10%;
+}
+
+.input {
+    display: grid;
+}
+
+.btn-group {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    column-gap: 10%;
+}

@@ -1,0 +1,8 @@
+.buttons {
+    margin: 5px;
+}
+
+.buttons li {
+    list-style: none;
+    padding: 5px;
+}

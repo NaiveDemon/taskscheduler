@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: rgb(217, 236, 248);
+}
+
+.heading {
+  border: 2px solid skyblue;
+}
+
+th,
+td {
+  padding: 10px 0;
+  margin-right: 50px;
+}
+
+tr {
+  border: 2px dotted skyblue;
+}

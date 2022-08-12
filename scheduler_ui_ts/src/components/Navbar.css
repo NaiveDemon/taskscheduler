@@ -1,0 +1,31 @@
+.navbar {
+    background-color: blueviolet;
+    position: absolute;
+    width: 82%;
+    border-radius: 4px;
+}
+
+.navbar a {
+    color: rgb(66, 13, 13);
+    display: block;
+    float: left;
+    padding: 4px 32px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+}
+
+.navbar a:hover {
+    background-color: antiquewhite;
+}
+
+.search {
+    float: right;
+    padding: 4px 32px;
+}
+
+.search input {
+    border-radius: 4px;
+    padding: 4px;
+    margin: 2px;
+}
